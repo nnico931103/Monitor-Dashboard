@@ -1,0 +1,19 @@
+# Node modules folder
+node_modules/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment variables
+.env
+
+# macOS 系统产生的文件
+.DS_Store
+
+# 编译输出或构建的目录
+/dist
+/build
