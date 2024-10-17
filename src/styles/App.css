@@ -1,0 +1,39 @@
+/* 全局樣式設置 */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f0f2f5;
+}
+
+/* 全局應用容器 */
+.App {
+  text-align: center;
+}
+
+header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #61dafb;
+}
+
+section {
+  padding: 20px;
+}
+
+/* 響應式設計調整 */
+@media (max-width: 600px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  section {
+    padding: 10px;
+  }
+}
