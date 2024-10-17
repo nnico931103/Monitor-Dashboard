@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/nnico931103/Smart-Dashboard/static/js/main.d170e2bf.js",
-    "static/js/987.582bc350.chunk.js": "/nnico931103/Smart-Dashboard/static/js/987.582bc350.chunk.js",
-    "static/js/52.dd9bb407.chunk.js": "/nnico931103/Smart-Dashboard/static/js/52.dd9bb407.chunk.js",
-    "static/js/192.0dae940c.chunk.js": "/nnico931103/Smart-Dashboard/static/js/192.0dae940c.chunk.js",
-    "static/js/145.9b73b4fe.chunk.js": "/nnico931103/Smart-Dashboard/static/js/145.9b73b4fe.chunk.js",
-    "index.html": "/nnico931103/Smart-Dashboard/index.html",
-    "main.d170e2bf.js.map": "/nnico931103/Smart-Dashboard/static/js/main.d170e2bf.js.map",
-    "987.582bc350.chunk.js.map": "/nnico931103/Smart-Dashboard/static/js/987.582bc350.chunk.js.map",
-    "52.dd9bb407.chunk.js.map": "/nnico931103/Smart-Dashboard/static/js/52.dd9bb407.chunk.js.map",
-    "192.0dae940c.chunk.js.map": "/nnico931103/Smart-Dashboard/static/js/192.0dae940c.chunk.js.map",
-    "145.9b73b4fe.chunk.js.map": "/nnico931103/Smart-Dashboard/static/js/145.9b73b4fe.chunk.js.map"
+    "main.js": "/Smart-Dashboard/static/js/main.d823fc62.js",
+    "static/js/987.582bc350.chunk.js": "/Smart-Dashboard/static/js/987.582bc350.chunk.js",
+    "static/js/52.dd9bb407.chunk.js": "/Smart-Dashboard/static/js/52.dd9bb407.chunk.js",
+    "static/js/192.0dae940c.chunk.js": "/Smart-Dashboard/static/js/192.0dae940c.chunk.js",
+    "static/js/145.9b73b4fe.chunk.js": "/Smart-Dashboard/static/js/145.9b73b4fe.chunk.js",
+    "index.html": "/Smart-Dashboard/index.html",
+    "main.d823fc62.js.map": "/Smart-Dashboard/static/js/main.d823fc62.js.map",
+    "987.582bc350.chunk.js.map": "/Smart-Dashboard/static/js/987.582bc350.chunk.js.map",
+    "52.dd9bb407.chunk.js.map": "/Smart-Dashboard/static/js/52.dd9bb407.chunk.js.map",
+    "192.0dae940c.chunk.js.map": "/Smart-Dashboard/static/js/192.0dae940c.chunk.js.map",
+    "145.9b73b4fe.chunk.js.map": "/Smart-Dashboard/static/js/145.9b73b4fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.d170e2bf.js"
+    "static/js/main.d823fc62.js"
   ]
 }
