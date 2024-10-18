@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Smart-Dashboard/static/js/main.4d7857e1.js",
+    "main.js": "/Smart-Dashboard/static/js/main.d41b961b.js",
     "static/js/987.582bc350.chunk.js": "/Smart-Dashboard/static/js/987.582bc350.chunk.js",
     "static/js/52.dd9bb407.chunk.js": "/Smart-Dashboard/static/js/52.dd9bb407.chunk.js",
     "static/js/192.0dae940c.chunk.js": "/Smart-Dashboard/static/js/192.0dae940c.chunk.js",
     "static/js/145.9b73b4fe.chunk.js": "/Smart-Dashboard/static/js/145.9b73b4fe.chunk.js",
     "index.html": "/Smart-Dashboard/index.html",
-    "main.4d7857e1.js.map": "/Smart-Dashboard/static/js/main.4d7857e1.js.map",
+    "main.d41b961b.js.map": "/Smart-Dashboard/static/js/main.d41b961b.js.map",
     "987.582bc350.chunk.js.map": "/Smart-Dashboard/static/js/987.582bc350.chunk.js.map",
     "52.dd9bb407.chunk.js.map": "/Smart-Dashboard/static/js/52.dd9bb407.chunk.js.map",
     "192.0dae940c.chunk.js.map": "/Smart-Dashboard/static/js/192.0dae940c.chunk.js.map",
     "145.9b73b4fe.chunk.js.map": "/Smart-Dashboard/static/js/145.9b73b4fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4d7857e1.js"
+    "static/js/main.d41b961b.js"
   ]
 }
