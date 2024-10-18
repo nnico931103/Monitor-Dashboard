@@ -1,22 +1,14 @@
 const CACHE_NAME = "device-data-cache-v1";
 const urlsToCache = [
-  "/Smart-Dashboard", // 預加載的頁面
-  "/static/js/bundle.js", // 預加載的 JavaScript
+  // "/Smart-Dashboard", // 預加載的頁面
+  // "/static/js/bundle.js", // 預加載的 JavaScript
 ];
 
 // 安裝階段，快取靜態資源
 self.addEventListener("install", (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
-      // return cache.addAll(urlsToCache);
-      return Promise.all([
-        cache.add("/").catch((error) => {
-          console.error("缓存 / 失败:", error);
-        }),
-        cache.add("/static/js/bundle.js").catch((error) => {
-          console.error("缓存 /static/js/bundle.js", error);
-        }),
-      ]);
+      return cache.addAll(urlsToCache);
     })
   );
 });
