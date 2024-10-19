@@ -1,13 +1,11 @@
 {
   "short_name": "Dsboard",
   "name": "Smart Dashboard",
-  "start_url": "/index.html",
+  "start_url": "/Smart-Dashboard",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
-  "id": "/index.html",
   "icons": [
-
     {
       "src": "web-app-manifest-192x192.png",
       "type": "image/png",
@@ -21,7 +19,7 @@
   ],
   "screenshots": [
     {
-      "src": "/screenshots/screenshot.png",
+      "src": "/Smart-Dashboard/screenshots/screenshot.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide"

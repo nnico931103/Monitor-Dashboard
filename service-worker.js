@@ -1,7 +1,8 @@
 const CACHE_NAME = "device-data-cache-v1";
 const urlsToCache = [
-  // "/Smart-Dashboard", // 預加載的頁面
-  // "/static/js/bundle.js", // 預加載的 JavaScript
+  "/",
+  "/Smart-Dashboard", // 預加載的頁面
+  "/static/js/bundle.js", // 預加載的 JavaScript
 ];
 
 // 安裝階段，快取靜態資源
@@ -51,6 +52,7 @@ self.addEventListener("activate", (event) => {
 //  beforeinstallprompt 事件
 let deferredPrompt;
 self.addEventListener("beforeinstallprompt", (e) => {
+  console.log("beforeinstallprompt");
   e.preventDefault();
   deferredPrompt = e;
 
