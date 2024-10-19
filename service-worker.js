@@ -91,9 +91,9 @@
 // });
 const CACHE_NAME = "device-data-cache-v1";
 const urlsToCache = [
-  "/",
-  "/index.html",
-  "/static/js/bundle.js",
+  "/Smart-Dashboard/",
+  // "/index.html",
+  // "/static/js/bundle.js",
   // 添加更多你想緩存的資源
 ];
 
