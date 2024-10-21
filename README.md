@@ -22,10 +22,6 @@ This project is a **React** and **TypeScript** based monitoring dashboard design
 - **PostgreSQL** for data storage
 - **WebSocket** for real-time data updates
 
-### Deployment
-- **Docker** and **Kubernetes** for containerization and orchestration
-- **AWS (EC2, RDS, S3)** for cloud deployment
-
 ## Project Setup
 
 ### Prerequisites
