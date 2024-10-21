@@ -1,5 +1,5 @@
 ## Live Demo
-[View Live Demo](https://your-username.github.io/your-repository-name/)
+[View Live Demo]([https://your-username.github.io/your-repository-name/](https://github.com/nnico931103/Monitor-Dashboard))
 
 # Monitor-Dashboard
 This project is a **React** and **TypeScript** based monitoring dashboard designed to track and visualize real-time data from various devices. It includes WebSocket integration for live updates, dynamic charts built with **D3.js**, and a backend powered by **Node.js** and **PostgreSQL**.
