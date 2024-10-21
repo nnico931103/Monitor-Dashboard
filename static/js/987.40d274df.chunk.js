@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunksmart_dashboard=self.webpackChunksmart_dashboard||[]).push([[987],{987:(t,e,a)=>{a.r(e),a.d(e,{default:()=>h});var r=a(43),n=a(145),d=a(464),l=a(579);const i=d.Ay.div`
+"use strict";(self.webpackChunkMonitor_Dashboard=self.webpackChunkMonitor_Dashboard||[]).push([[987],{987:(t,e,a)=>{a.r(e),a.d(e,{default:()=>h});var r=a(43),n=a(145),d=a(464),l=a(579);const i=d.Ay.div`
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   background-color: #fff;
@@ -24,4 +24,4 @@
   margin: 10px;
   flex: 1 1 calc(50% - 40px);
 `),h=t=>{let{deviceData:e}=t;return(0,l.jsx)("div",{children:(0,l.jsxs)(c,{children:[(0,l.jsx)(p,{children:(0,l.jsx)(o,{data:e,chartType:"bar",dataKey:"runtime",label:"Runtime (hours)"})}),(0,l.jsx)(p,{children:(0,l.jsx)(o,{data:e,chartType:"line",dataKey:"temperature",label:"Temperature (\xb0C)",maxValue:70})}),(0,l.jsx)(p,{children:(0,l.jsx)(o,{data:e,chartType:"bar",dataKey:"power",label:"Power Consumption (kWh)",maxValue:70})}),(0,l.jsx)(p,{children:(0,l.jsx)(o,{data:e,chartType:"line",dataKey:"productionRate",label:"Production Rate (%)"})}),(0,l.jsx)(p,{children:(0,l.jsx)(o,{data:e,chartType:"bar",dataKey:"errorRate",label:"Error Rate (%)",maxValue:5})})]})})}}}]);
-//# sourceMappingURL=987.582bc350.chunk.js.map
+//# sourceMappingURL=987.40d274df.chunk.js.map

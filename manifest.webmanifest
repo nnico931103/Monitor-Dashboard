@@ -1,7 +1,7 @@
 {
   "short_name": "Dsboard",
-  "name": "Smart Dashboard",
-  "start_url": "/Smart-Dashboard",
+  "name": "Monitor-Dashboard",
+  "start_url": "/Monitor-Dashboard",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
@@ -19,7 +19,7 @@
   ],
   "screenshots": [
     {
-      "src": "/Smart-Dashboard/screenshots/screenshot.png",
+      "src": "/Monitor-Dashboard/screenshots/screenshot.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide"

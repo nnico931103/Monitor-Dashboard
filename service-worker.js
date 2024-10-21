@@ -1,5 +1,5 @@
 const CACHE_NAME = "device-data-cache-v1";
-const urlsToCache = ["/Smart-Dashboard/"];
+const urlsToCache = ["/Monitor-Dashboard/"];
 
 // 安裝階段，快取靜態資源
 self.addEventListener("install", (event) => {
