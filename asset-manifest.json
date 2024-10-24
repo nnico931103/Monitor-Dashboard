@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Monitor-Dashboard/static/js/main.8e7263ec.js",
+    "main.js": "/Monitor-Dashboard/static/js/main.83e3fdd5.js",
     "static/js/987.40d274df.chunk.js": "/Monitor-Dashboard/static/js/987.40d274df.chunk.js",
     "static/js/52.5f4c7ab6.chunk.js": "/Monitor-Dashboard/static/js/52.5f4c7ab6.chunk.js",
     "static/js/192.ee60a235.chunk.js": "/Monitor-Dashboard/static/js/192.ee60a235.chunk.js",
     "static/js/145.2d1f88ac.chunk.js": "/Monitor-Dashboard/static/js/145.2d1f88ac.chunk.js",
     "index.html": "/Monitor-Dashboard/index.html",
-    "main.8e7263ec.js.map": "/Monitor-Dashboard/static/js/main.8e7263ec.js.map",
+    "main.83e3fdd5.js.map": "/Monitor-Dashboard/static/js/main.83e3fdd5.js.map",
     "987.40d274df.chunk.js.map": "/Monitor-Dashboard/static/js/987.40d274df.chunk.js.map",
     "52.5f4c7ab6.chunk.js.map": "/Monitor-Dashboard/static/js/52.5f4c7ab6.chunk.js.map",
     "192.ee60a235.chunk.js.map": "/Monitor-Dashboard/static/js/192.ee60a235.chunk.js.map",
     "145.2d1f88ac.chunk.js.map": "/Monitor-Dashboard/static/js/145.2d1f88ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.8e7263ec.js"
+    "static/js/main.83e3fdd5.js"
   ]
 }
